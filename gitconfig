@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = joakim.tell@ingka.ikea.com
+	name = Joakim Tell
